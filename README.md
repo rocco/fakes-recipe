@@ -1,10 +1,11 @@
-Fakes - Greek Lentil Soup
-=========================
+Fakes with Potatoes - Greek Style Lentils
+=========================================
 
 60 min preparation time, 30 min actual work
 
 Ingredients:
 ------------
+
 Serves: 4 to 5
 
 * 500g small brown lentils
@@ -46,8 +47,8 @@ Preparation
 
 Serve and Taste
 ---------------
+
 Fakes is served with red wine vinegar on the side or added directly after cooking.
 Add some parsley on top for looks and taste.
 
 It sould taste relatively sour with the vinegar, but works without too.
-Add sausage or bacon for meaty flavor (see branches).
