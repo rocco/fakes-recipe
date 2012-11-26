@@ -19,14 +19,7 @@ Serves: 4 to 5
 * salt
 * pepper
 * red wine vinegar
-
-Options
--------
-
-* 3 potatoes or one sweet potato, diced like and added alongside the carrots
-* 1 pan-fried Cabanossi or similar sausage/bacon added with the tomatoes
-* some rosemary will not hurt
-* parsley as decoration
+* parsley
 
 Preparation
 -----------
@@ -51,8 +44,9 @@ Preparation
 
 Serve and Taste
 ---------------
+
 Fakes is served with red wine vinegar on the side or added directly after cooking.
 Add some parsley on top for looks and taste.
 
 It sould taste relatively sour with the vinegar, but works without too.
-Add sausage or bacon for meaty flavor.
+Add sausage or bacon for meaty flavor (see branches).
