@@ -11,6 +11,7 @@ Serves: 4 to 5
 * 3 garlic cloves
 * 3 small onions/shallots
 * 3 carrots
+* 3 potatoes
 * 3 tomatoes
 * 2 bay leaves
 * 2 tablespoons dried oregano
@@ -19,14 +20,7 @@ Serves: 4 to 5
 * salt
 * pepper
 * red wine vinegar
-
-Options
--------
-
-* 3 potatoes or one sweet potato, diced like and added alongside the carrots
-* 1 pan-fried Cabanossi or similar sausage/bacon added with the tomatoes
-* some rosemary will not hurt
-* parsley as decoration
+* parsley
 
 Preparation
 -----------
@@ -37,6 +31,7 @@ Preparation
 * crush and add garlic cloves
 * chop and add onions 
 * chop and add carrots
+* chop and add potatoes
 * add bay leaves
 * add oregano
 * add cold water so that incredients are covered plus 2 fingers extra water on top
@@ -55,4 +50,4 @@ Fakes is served with red wine vinegar on the side or added directly after cookin
 Add some parsley on top for looks and taste.
 
 It sould taste relatively sour with the vinegar, but works without too.
-Add sausage or bacon for meaty flavor.
+Add sausage or bacon for meaty flavor (see branches).
